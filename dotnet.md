@@ -12,3 +12,5 @@ class Program
     }
 }
 ```
+
+- this is dotnet notes
